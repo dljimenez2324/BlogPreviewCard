@@ -12,6 +12,6 @@ Assets: https://drive.google.com/file/d/1GXXlBDEeTp17b9oQ2dNMSCixpbblcVBj/view?u
 GitHub: https://github.com/dljimenez2324/BlogPreviewCard <br>
 
 Changes: <br>
-See GitHub for history of changes
+See GitHub for history of changes <br>
 Reviewer: <br>
 Name here - Aaron Perez : The spacing looks good, just the footer is a bit low, Good responsive layout on different screen sizes with the card adjusting its size narrow.

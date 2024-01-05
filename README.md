@@ -15,7 +15,3 @@ Changes: <br>
 See GitHub for history of changes
 Reviewer: <br>
 Name here - Aaron Perez
-
-Name here - Alicia Bryant
-
-Name here - Joesph Hernandez

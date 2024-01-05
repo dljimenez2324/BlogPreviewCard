@@ -1,11 +1,11 @@
-# MiniChallenge-Blog_Preview_Card
+# MiniChallenge - Blog Preview Card
 
 Name: David Jimenez<br>
 Project: MiniChallenge - Blog Preview Card <br>
 Date: 01/04/2024 <br>
 <strong>Description:</strong>
-Create a website about Puppies <br>
-In this project, you will take the following mockup and make it into a fully functioning and fully responsive website.<br><br>
+Your challenge is to build out this blog preview card and get it looking as close to the design as possible <br>
+Should be responsive, referencing the desktop and mobile version examples. Assets provided, use bootstrap <br><br>
 
 Resources: <br>
 Assets: https://drive.google.com/file/d/1GXXlBDEeTp17b9oQ2dNMSCixpbblcVBj/view?usp=sharing <br>

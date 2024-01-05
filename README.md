@@ -14,7 +14,7 @@ GitHub: https://github.com/dljimenez2324/BlogPreviewCard <br>
 Changes: <br>
 See GitHub for history of changes
 Reviewer: <br>
-Name here - Aaron Perez
+Name here - Aaron Perez : The spacing looks good, just the footer is a bit low, Good responsive layout on different screen sizes with the card adjusting its size narrow.
 
 Name here - Alicia Bryant
 

@@ -1,0 +1,66 @@
+/* Fonts */
+/* @font-face {
+    font-family: Figtree;
+    src: url(https://fonts.google.com/specimen/Figtree);
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap');
+
+
+
+.cardCentered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: auto;
+}
+
+.cardBgNFont {
+    background-color: #F4D04E;
+    font-family: 'Figtree', sans-serif;
+}
+
+.imgFix {
+    display: flex;
+    justify-content: center;
+    margin: 1.5vh;
+    padding: 1.5vh;
+    width: auto;
+    border-radius: 1.5rem !important;
+}
+
+.cardFix {
+    padding-top: 0;
+    margin: 2vh;
+    margin-top: 0;
+    margin-left: 1.5vh;
+    margin-right: 1.5vh;
+    margin-bottom: 0;
+    padding-left: 1.5vh;
+    padding-right: 1.5vh;
+    padding-bottom: 0;
+}
+
+.cardStyle {
+    width: 24rem;
+    box-shadow: 8px 8px 0px black;
+    border-radius: 1.2rem;
+    border: 2px solid black;
+}
+
+#hoverDis:hover {
+    color: #F4D04E;
+}
+
+.pText {
+    color:  #808080;
+}
+
+.goSmall {
+    width: 75%;
+}
